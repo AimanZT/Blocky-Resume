@@ -6,7 +6,11 @@
 
 
 Steps:
-
+1. Start Ganache and start an instance.
+2. Log in Metamasak and hook it to website.
+3. Select Resume File and generate hash.
+4. Choose the option: Send to blockchain / Verify Resume.
+5. Profit.
 
 
 Installation Process
