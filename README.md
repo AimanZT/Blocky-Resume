@@ -47,7 +47,7 @@ There are a lot of dependencies needed in order to run the web application.
 
 21.	Deploy contracts to the network by typing command “truffle migrate --reset” without “.
 
-22.	Go to the frontend folder by typing command “cd frontend”.
+22.	Go to the frontend folder by typing command “cd frontend” without “.
 
 23.	Create another file dependency by typing command “npm install” without “.
 
