@@ -1,5 +1,14 @@
 # Blocky-Resume
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/28200932/118939015-d88d7100-b981-11eb-8ad8-d3b8f0db6d52.png">
+</p>
+
+
+Steps:
+
+
+
 Installation Process
 There are a lot of dependencies needed in order to run the web application.
 1.	Download and install Ganache from Truffle Suite.
