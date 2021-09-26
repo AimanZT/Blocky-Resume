@@ -4,6 +4,8 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/28200932/118939015-d88d7100-b981-11eb-8ad8-d3b8f0db6d52.png">
 </p>
 
+NOTE: This is my final year project. Please excuse my mistakes and shortcomings.
+
 
 Steps:
 1. Start Ganache and start an instance.
