@@ -4,7 +4,7 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/28200932/118939015-d88d7100-b981-11eb-8ad8-d3b8f0db6d52.png">
 </p>
 
-NOTE: This is my final year project. Please excuse my mistakes and shortcomings. I thinking of further develop this program as my pet project. Only time will tell.
+
 
 
 Steps:
@@ -40,25 +40,7 @@ There are a lot of dependencies needed in order to run the web application.
 
 10.	Open the extracted file with Visual Studio Code in administrator mode and open a terminal inside it.
 
-11.	Install Truffle by typing command “npm install truffle” without “.
-
-12.	Install ethers by typing command “npm install ethers” without “.
-
-13.	Install object-hash by typing command “npm install object-hash” without “.
-
-14.	Install React.js by typing command “npm install react” without “.
-
-15.	Install React-dom by typing command “npm install react-dom” without “.
-
-16.	Install React Scripts by typing command “npm install react-scripts” without “.
-
-17.	Install Jquery by typing command “npm install jquery” without “.
-
-18.	Install object-js by typing command “npm install object-js” without “.
-
-19.	Install web3 by typing command “npm install web3” without “.
-
-20.	Create the file dependencies by typing command “npm install” without “.
+11. Create another file dependency by typing command “npm install” without “.
 
 21.	Deploy contracts to the network by typing command “truffle migrate --reset” without “.
 
